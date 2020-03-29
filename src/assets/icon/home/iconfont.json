@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "348438",
+      "name": "empire",
+      "font_class": "empire",
+      "unicode": "ea97",
+      "unicode_decimal": 60055
+    }
+  ]
+}

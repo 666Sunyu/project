@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1585289704967'); /* IE9 */
+  src: url('iconfont.eot?t=1585289704967#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPYAAsAAAAAB9QAAAOJAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqDYIM3ATYCJAMICwYABCAFhG0HMBvdBsgekiSIQAIFJChwANuIINqP/ey9w0SiRc/i2ROlEEneaIHS4Us3j2+wzspCzsqa2T0XSTut08yBS75O0IsoXnf3BRTB/3PMeGvcbJjfFy6RZV1UtgGO93xvQJFxRXYHdGDcCsM7sTqM3QRqDUpgtlnV0AFsZRgUiCtOIgC2Gb3cQAzVqsqKmVncsVKdbtJdANwGHx+fQVrYklQUkLNzWSkGJZ/WEkaLnrLHvKKXYDorpHkUmAdk4qDSvsUiCs6zUGsELY0C28oMPq39/9/jb/YLjyAqQV7PYvr51yRwhJf6mQlk1OAZ8HHQv0FNQ2PDdINLQ0uLABiNTP762GJDJzyNMzb7xRh72dh9vpnHepS5en2H2d7lMBNbeHBOx/oe385jBcylis5dY1Hs9aKOK2nsht4A5mRx59VqZu94ZMe1QvYyBqfGQ/Udefti8kwmbU9H3MaQrJO9adkb4uINTM6BuBwjE74ny8xg6O41Aj+mx/cY8OMmLduTko6VSHtZ6Th70qfoKN7iNp8vsPi9qaR94Srf2cqMxP9vP2XjV/R5P7kc/Z6z+vlWi/yT2zxvEfWjamaVb/vCkk2V7EDCkrQl/QmWcuk8q7jeUX2G3tXEWfE2uWV/JWkgIWIu3tuPMFA0cIafNTdvrmPeZMm3mVU+7Qub2WLzgpObfOstfob8t//rVue8P+oyY1z5SvPi4+ZVrOIz+7UkarHFTX59u6jhZF/fyYbrlONz4srragtfobTl8sjI5ZaHPIfn8JUP+RhQAigRXmMJius/eZin/x8aFroU/LV1yOB154UXgbibE6i+X0fw3xplUJZAlkXQp6xzGwoDyTO79yGtJR5KcLd6NtTZASTWUC0LWEiqDECh2jgiY+ahQp0FqFRtBWrNqZ5fpw1hIXINZg0yEJodhaTRCxSa3UNkzFOo0OktVGoOC6h1FB4r1pkMzr6cIAFFYihcBjmRWoWpidqHmW1IwisEJC0KyAwiOs4DU5NS8pFqpEJkijG6xZI0SjHERK2EVcx+SKFQQw1Ry5CIJkkp1eQlJ+OqN0oSqZXA3gYCEaAQMUhoGYgjoqaCvdqUfeH92yASPAUB0lDWYGcghA7XPJQqSUoHRLVc1ansVu7RWUwiDUVhEEaoKUFVjBVRkKAapKnuJoOIUEmkA/waeZK5arirPGl5pfLt1kEtaFKQToXKC6WGIwgAAAAA') format('woff2'),
+  url('iconfont.woff?t=1585289704967') format('woff'),
+  url('iconfont.ttf?t=1585289704967') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1585289704967#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-empire:before {
+  content: "\ea97";
+}
+

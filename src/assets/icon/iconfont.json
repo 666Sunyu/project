@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "915611",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "1301354",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "1761529",
+      "name": "计划",
+      "font_class": "jihua",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "2155829",
+      "name": "工具箱",
+      "font_class": "tool-cabinet_icon",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "2468150",
+      "name": "生产工序查询",
+      "font_class": "shengchangongxuchaxun",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "4159295",
+      "name": "查询统计",
+      "font_class": "chaxuntongji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6241675",
+      "name": "生产消耗",
+      "font_class": "shengchanxiaohao",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "6337476",
+      "name": "左右对齐",
+      "font_class": "zuoyouduiqi",
+      "unicode": "ec87",
+      "unicode_decimal": 60551
+    },
+    {
+      "icon_id": "8245048",
+      "name": "车辆终端信息管理",
+      "font_class": "cheliangzhongduanxinxiguanli",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "8804686",
+      "name": "box",
+      "font_class": "box",
+      "unicode": "e8eb",
+      "unicode_decimal": 59627
+    }
+  ]
+}
